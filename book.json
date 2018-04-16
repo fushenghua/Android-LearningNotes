@@ -1,0 +1,19 @@
+{
+    "title": "Android-Learningnotes",
+    "author": "silverfu",
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/fushenghua"
+        }
+    },
+    "tbfed-pagefooter": {
+        "copyright": "Copyright © fuchenxuan.cn 2017",
+        "modify_label": "该文件修订时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "mobi": "styles/mobi.css"
+    }
+}
