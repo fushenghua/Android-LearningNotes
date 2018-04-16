@@ -16,7 +16,7 @@
 	
 在线阅读：[Android-Learningnotes](https://fushenghua.gitbooks.io/android-learningnotes/)
 
-下载：[Epub版](docs/Android-Learningnotes.epub)、[Mobi版](docs/Android-Learningnotes.mobi)、[PDF版]()
+下载：[Epub版](https://github.com/fushenghua/Android-LearningNotes/blob/master/docs/Android-Learningnotes.epub?raw=true)、[Mobi版](https://github.com/fushenghua/Android-LearningNotes/blob/master/docs/Android-Learningnotes.mobi?raw=true)、[PDF版]()
 
 
 ### 版权问题
