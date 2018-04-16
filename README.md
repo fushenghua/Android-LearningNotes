@@ -1,6 +1,6 @@
 [Android-LearningNotes](https://fushenghua.gitbooks.io/android-learningnotes/)
 ===
-![cover_smal](/img/cover_small.jpg)
+![cover_smal](cover_small.jpg)
 
 
 简介
