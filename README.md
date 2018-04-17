@@ -2,11 +2,6 @@
 ===
 
 
-
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/fushenghua/Android-LearningNotes/blob/master/LICENSE) ![GitHub (pre-)release](https://img.shields.io/github/release/Android-LearningNotes/Android-LearningNotes.svg)
-
-
-
 ![cover_smal](cover_small.jpg)
 
 
