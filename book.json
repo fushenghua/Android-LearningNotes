@@ -1,6 +1,9 @@
 {
     "title": "Android-Learningnotes",
     "author": "silverfu",
+    "plugins": [
+        "github"
+    ],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/fushenghua"
