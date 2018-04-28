@@ -49,6 +49,7 @@
   * [类加载过程](Java-jvm/类加载过程.md)
   * [系统频繁Fullgc](Java-jvm/系统频繁Fullgc.md)
 * [Java-part0](Java-part0/0-README.md)
+  * [Java-NIO](Java-part0/Java-NIO.md)
   * [Java基础](Java-part0/Java基础.md)
   * [Java容器](Java-part0/Java容器.md)
   * [JDK中的设计模式](Java-part0/JDK中的设计模式.md)
